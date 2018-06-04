@@ -1,0 +1,11 @@
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\bin\Debug\netcoreapp2.0\WebUi.deps.json
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\bin\Debug\netcoreapp2.0\WebUi.runtimeconfig.json
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\bin\Debug\netcoreapp2.0\WebUi.runtimeconfig.dev.json
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\bin\Debug\netcoreapp2.0\WebUi.dll
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\bin\Debug\netcoreapp2.0\WebUi.pdb
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\obj\Debug\netcoreapp2.0\WebUi.csprojResolveAssemblyReference.cache
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\obj\Debug\netcoreapp2.0\WebUi.csproj.CoreCompileInputs.cache
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\obj\Debug\netcoreapp2.0\WebUi.AssemblyInfoInputs.cache
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\obj\Debug\netcoreapp2.0\WebUi.AssemblyInfo.cs
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\obj\Debug\netcoreapp2.0\WebUi.dll
+C:\Users\mossadmin\Documents\Visual Studio 2017\Projects\StarterKitProject\WebUi\obj\Debug\netcoreapp2.0\WebUi.pdb

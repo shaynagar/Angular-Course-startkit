@@ -1,0 +1,27 @@
+<ul *ngFor="let task of taskList">
+  <li>
+    <div>
+      <span>id : {{task.id}}</span>
+    </div>
+    <div>
+      <span>description : {{task.description}}</span>
+    </div>
+    <div>
+      <span>title : {{task.title}}</span>
+    </div>
+    <div>
+      <span>group : {{task.group}}</span>
+    </div>
+    <div>
+      <span>when : {{task.when}}</span>
+    </div>
+    <button type="submit" class="btn btn-success" (click)="remove(task)">Remove</button>
+    <button type="submit" class="btn btn-failed" (click)="edit(task)">Rand Edit</button>
+  </li>
+</ul>
+
+<div>
+  <footer>
+    <a routerLink="/">back</a>
+  </footer>  
+</div>
